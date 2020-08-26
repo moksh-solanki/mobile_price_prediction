@@ -13,3 +13,6 @@
  
  # Label
   - predicted cost (0(low cost), 1(medium cost), 2(high cost) and 3(very high cost))
+ # to run api app
+  - first go into folder where your api.py saved
+  - run this in terminal **uvicorn api:api_app --port <your_port_number> --reload**
