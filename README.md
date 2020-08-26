@@ -1,4 +1,5 @@
-# mobile_price_prediction
+# mobile_price_prediction as api
+
 # data used- https://www.kaggle.com/iabhishekofficial/mobile-price-classification 
 
 # Features
