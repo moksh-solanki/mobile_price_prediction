@@ -1,6 +1,6 @@
 # mobile_price_prediction as api
 
-# data used- https://www.kaggle.com/iabhishekofficial/mobile-price-classification 
+data used- https://www.kaggle.com/iabhishekofficial/mobile-price-classification 
 
 # Features
  - battery_power (Measured in mAh)
